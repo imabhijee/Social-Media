@@ -9,3 +9,33 @@
 .sidebar{
     min-height: 689px;
 }
+
+.post-card{
+    margin: 15px 20%;
+}
+
+.card-body{
+    border: 1px solid black;
+}
+
+.tags{
+    margin:2px
+}
+
+.reactions{
+    width: 100%; 
+    margin: 5px;
+}
+
+.createpost{
+    width: 80%;
+    margin: 4% 10%;
+}
+
+.Welcome-Msg{
+    margin: 150px 0;
+}
+
+.spinner{
+    margin: 150px 0px;
+}
